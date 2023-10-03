@@ -5,3 +5,4 @@ amaçlanmıştır. Proje python php html ile geliştirilmiştir. Bir ekip projes
 
 Proje kusursuz çalışmaktadır.Proje için bir web hosting kiralanmıştır ve test edilip yüzde yüz sonuç alınmıştır.
 
+Projede html css js python ve php dilleri kullanılmıştır github repo dili olarak hack yazıyor dikkate almayınız.
